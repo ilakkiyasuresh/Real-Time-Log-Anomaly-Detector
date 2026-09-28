@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+drain3
+numpy
+scikit-learn
+boto3
+python-dotenv
+pytest
